@@ -1,0 +1,26 @@
+{
+  "name": "msw_lidar_distance",
+  "version": "1.0.0",
+  "description": "msw_lidar_distance",
+  "main": "msw_lidar_distance.js",
+  "scripts": {
+    "test": "node msw_lidar_distance.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyeonseo0128/msw_lidar_distance.git"
+  },
+  "keywords": [
+    "lidar"
+  ],
+  "author": "hyeonseo0128",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyeonseo0128/msw_lidar_distance/issues"
+  },
+  "homepage": "https://github.com/hyeonseo0128/msw_lidar_distance#readme",
+  "dependencies": {
+    "mqtt": "^4.3.7",
+    "node-localdb": "^0.0.3"
+  }
+}
